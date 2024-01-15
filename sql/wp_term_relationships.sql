@@ -1,0 +1,12 @@
+INSERT INTO `wp_term_relationships` VALUES (6, 2, 0);
+INSERT INTO `wp_term_relationships` VALUES (39, 8, 0);
+INSERT INTO `wp_term_relationships` VALUES (40, 8, 0);
+INSERT INTO `wp_term_relationships` VALUES (41, 8, 0);
+INSERT INTO `wp_term_relationships` VALUES (43, 8, 0);
+INSERT INTO `wp_term_relationships` VALUES (45, 9, 0);
+INSERT INTO `wp_term_relationships` VALUES (46, 9, 0);
+INSERT INTO `wp_term_relationships` VALUES (47, 9, 0);
+INSERT INTO `wp_term_relationships` VALUES (48, 9, 0);
+INSERT INTO `wp_term_relationships` VALUES (77, 7, 0);
+INSERT INTO `wp_term_relationships` VALUES (1489, 8, 0);
+INSERT INTO `wp_term_relationships` VALUES (1715, 8, 0);
